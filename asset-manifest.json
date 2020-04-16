@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instavideodownloader/static/css/main.0e02aef1.chunk.css",
+    "main.js": "/instavideodownloader/static/js/main.81b7ce7d.chunk.js",
+    "main.js.map": "/instavideodownloader/static/js/main.81b7ce7d.chunk.js.map",
+    "runtime-main.js": "/instavideodownloader/static/js/runtime-main.55e4a370.js",
+    "runtime-main.js.map": "/instavideodownloader/static/js/runtime-main.55e4a370.js.map",
+    "static/js/2.cfcaff8b.chunk.js": "/instavideodownloader/static/js/2.cfcaff8b.chunk.js",
+    "static/js/2.cfcaff8b.chunk.js.map": "/instavideodownloader/static/js/2.cfcaff8b.chunk.js.map",
+    "index.html": "/instavideodownloader/index.html",
+    "precache-manifest.e0bb648b87fe6bb136b77d07e6955e1a.js": "/instavideodownloader/precache-manifest.e0bb648b87fe6bb136b77d07e6955e1a.js",
+    "service-worker.js": "/instavideodownloader/service-worker.js",
+    "static/css/main.0e02aef1.chunk.css.map": "/instavideodownloader/static/css/main.0e02aef1.chunk.css.map",
+    "static/js/2.cfcaff8b.chunk.js.LICENSE.txt": "/instavideodownloader/static/js/2.cfcaff8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55e4a370.js",
+    "static/js/2.cfcaff8b.chunk.js",
+    "static/css/main.0e02aef1.chunk.css",
+    "static/js/main.81b7ce7d.chunk.js"
+  ]
+}
